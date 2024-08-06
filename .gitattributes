@@ -1,0 +1,5 @@
+*.html      text
+*.css       text
+*.json      text
+*.js        text
+*           binary
